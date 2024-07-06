@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">134023426792-s908v6do3jsrcgm1ju1n3bsr16gnebv3.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://drowsiness-detection-eb539-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">134023426792</string>
+    <string name="google_api_key" translatable="false">AIzaSyDVsRobLem87jKIh8jxejR6SOfR9s_PQNo</string>
+    <string name="google_app_id" translatable="false">1:134023426792:android:7b6420d12cbba992870f5d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDVsRobLem87jKIh8jxejR6SOfR9s_PQNo</string>
+    <string name="google_storage_bucket" translatable="false">drowsiness-detection-eb539.appspot.com</string>
+    <string name="project_id" translatable="false">drowsiness-detection-eb539</string>
+</resources>

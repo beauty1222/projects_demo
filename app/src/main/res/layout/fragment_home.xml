@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeFragment">
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:orientation="vertical"
+      android:layout_margin="5dp"
+      >
+
+      <ImageView
+          android:layout_width="match_parent"
+          android:layout_height="200dp"
+          android:src="@drawable/drowdetection"
+          />
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:textColor="@color/black"
+          android:textSize="16dp"
+          android:text="A drowsiness detection Android app is a mobile application that uses sensors on a smartphone or other device to detect signs of drowsiness in the user. The app typically monitors the user's eyes and face for signs of fatigue or drowsiness, such as drooping eyelids, nodding head, or changes in facial expressions."
+          android:layout_margin="5dp"
+          />
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:textColor="@color/black"
+          android:textSize="16dp"
+          android:text="Once the app detects signs of drowsiness, it may alert the user with a notification, alarm, or other signal to encourage the user to take a break or rest."
+          android:layout_margin="5dp"
+          />
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:textColor="@color/black"
+          android:textSize="16dp"
+          android:text="Drowsiness detection apps can be particularly useful for individuals who work long hours, drive frequently, or have other responsibilities that require them to stay alert and focused. By monitoring the user's level of drowsiness and providing timely reminders to take breaks or rest, these apps can help prevent accidents, improve productivity, and promote overall well-being."
+          android:layout_margin="5dp"
+          />
+
+      <Button
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:background="@drawable/btn_design_myaccount"
+          android:text="Start Detection"
+          android:textColor="@color/white"
+          android:id="@+id/detection"
+          android:layout_margin="8dp"
+          />
+
+  </LinearLayout>
+
+</FrameLayout>

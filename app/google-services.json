@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "134023426792",
+    "firebase_url": "https://drowsiness-detection-eb539-default-rtdb.firebaseio.com",
+    "project_id": "drowsiness-detection-eb539",
+    "storage_bucket": "drowsiness-detection-eb539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134023426792:android:7b6420d12cbba992870f5d",
+        "android_client_info": {
+          "package_name": "com.example.driver.drowsiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134023426792-s908v6do3jsrcgm1ju1n3bsr16gnebv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVsRobLem87jKIh8jxejR6SOfR9s_PQNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134023426792-s908v6do3jsrcgm1ju1n3bsr16gnebv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

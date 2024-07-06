@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Student Project\\Shriti\\Drowsiness Detection\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-round-v23\\values-round-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\91917\\.gradle\\caches\\transforms-3\\101db1bd187432214c8d5a1609b30e6e\\transformed\\wear-1.1.0\\res\\values-round-v23\\values-round-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,118,204",
+                        "endColumns": "62,85,79",
+                        "endOffsets": "113,199,279"
+                    }
+                }
+            ]
+        }
+    ]
+}
